@@ -1,0 +1,24 @@
+{
+  "name": "aes-128-ctr",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Console app for encryption / decryption.",
+  "main": "index.js",
+  "scripts": {
+    "encrypt": "node index.js encrypt", 
+    "decrypt": "node index.js decrypt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psht13/aes-128-ctr.git"
+  },
+  "keywords": [
+    "encryption"
+  ],
+  "author": "Pavlo Yurchenko <pashtet.gm@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/psht13/aes-128-ctr/issues"
+  },
+  "homepage": "https://github.com/psht13/aes-128-ctr#readme"
+}
