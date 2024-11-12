@@ -1,6 +1,6 @@
 {
   "name": "aes-128-ctr",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "description": "Console app for encryption / decryption.",
   "main": "index.js",
